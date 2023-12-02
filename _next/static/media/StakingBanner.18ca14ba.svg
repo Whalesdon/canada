@@ -1,0 +1,43 @@
+<svg width="715" height="222" viewBox="0 0 715 222" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_7886_64005)">
+<g clip-path="url(#clip0_7886_64005)">
+<g filter="url(#filter1_f_7886_64005)">
+<path d="M431.775 121.115C466.207 11.232 575.507 -52.3431 675.904 -20.8838C776.301 10.5754 829.776 125.156 795.344 235.039C760.912 344.922 651.612 408.497 551.216 377.038C450.819 345.579 397.344 230.998 431.775 121.115Z" fill="url(#paint0_angular_7886_64005)" fill-opacity="0.3"/>
+</g>
+<g filter="url(#filter2_f_7886_64005)">
+<path d="M-125.192 47.8759C-61.5265 9.60649 35.409 53.9853 91.3192 146.999C147.229 240.012 140.943 346.438 77.2769 384.707C13.6112 422.977 -83.3242 378.598 -139.235 285.584C-195.145 192.571 -188.858 86.1452 -125.192 47.8759Z" fill="url(#paint1_angular_7886_64005)" fill-opacity="0.3"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_7886_64005" x="-100" y="-100" width="915" height="422" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="50"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7886_64005"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7886_64005" result="shape"/>
+</filter>
+<filter id="filter1_f_7886_64005" x="219.697" y="-230.562" width="787.726" height="817.281" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100.816" result="effect1_foregroundBlur_7886_64005"/>
+</filter>
+<filter id="filter2_f_7886_64005" x="-377.378" y="-165.867" width="706.841" height="764.32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_7886_64005"/>
+</filter>
+<radialGradient id="paint0_angular_7886_64005" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(628.055 243.096) rotate(24.586) scale(230.619 167.828)">
+<stop offset="0.400114" stop-color="#8F93FF"/>
+<stop offset="0.602949" stop-color="#E9E9FF"/>
+<stop offset="0.759554" stop-color="#F980FF"/>
+</radialGradient>
+<radialGradient id="paint1_angular_7886_64005" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-38.1823 264.887) rotate(63.4994) scale(236.746 108.783)">
+<stop offset="0.400114" stop-color="#F190BE"/>
+<stop offset="0.602949" stop-color="#E9EDFF"/>
+<stop offset="0.759554" stop-color="#818AFF"/>
+</radialGradient>
+<clipPath id="clip0_7886_64005">
+<rect width="715" height="222" rx="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
